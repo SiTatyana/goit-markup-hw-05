@@ -190,8 +190,8 @@ img {
   cursor: pointer;
 
   color: var(--main-txt-clr);
-  /* 
-  transition: color var(--animation); */
+
+  transition: color var(--animation);
 }
 
 .header-socials-icon {
